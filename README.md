@@ -1,6 +1,6 @@
-# Meal Prep App
+# Meal Plan App
 
-Meal Prep is a React-based web application designed to help users explore meals, mark favorites, and plan weekly meals efficiently. The app is fully responsive and provides a modern, interactive experience.
+Meal Plan is a React-based web application designed to help users explore meals, mark favorites, and plan weekly meals efficiently. The app is fully responsive and provides a modern, interactive experience.
 
 ## Features
 
@@ -21,7 +21,7 @@ Meal Prep is a React-based web application designed to help users explore meals,
 
 ## Usage
 
-The Meal Prep app is used to:
+The Meal Plan app is used to:
 
 - Help users **discover new meals** quickly.
 - **Organize weekly meals** efficiently with a visual planner.
