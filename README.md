@@ -1,29 +1,30 @@
-🥗 Meal Prep App
+# Meal Prep App
 
-This is a React + Vite + Tailwind-based meal planning application designed to help users explore meals, mark favorites, and build a weekly meal plan. The app includes a clean UI, profile dropdown, smooth navigation, and toast notifications for actions. It is fully responsive, ensuring an optimal viewing experience across desktops, tablets, and mobile devices.
+Meal Prep is a React-based web application designed to help users explore meals, mark favorites, and plan weekly meals efficiently. The app is fully responsive and provides a modern, interactive experience.
 
-✨ Features
+## Features
 
-Homepage / Hero Section: Introduction with a call-to-action "Explore Meals" button that scrolls smoothly to the catalog.
+- **Homepage / Hero Section**: Introduction with a call-to-action button that scrolls to the meal catalog section.
+- **Meal Catalog**: Browse available meals, filter by category, search by name or tags, and mark favorites.
+- **Favorites**: Quickly access your favorite meals and manage them.
+- **Weekly Planner**: Add or remove meals for breakfast, lunch, or dinner on any date, with an intuitive calendar view.
+- **User Profile Dropdown**: Includes options like Profile, Contact, and Sign Out.
+- **Toasts & Notifications**: Feedback for adding/removing meals, selecting meals, and managing your plan.
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices.
 
-Meal Catalog: Displays available meals with categories, search, and tags.
+## Technologies Used
 
-Favorites: Mark/unmark meals as favorites for quick access.
+- **React (Vite)**: Frontend framework for building the UI.
+- **TailwindCSS**: Utility-first CSS framework for styling.
+- **TypeScript**: Provides type safety for components and hooks.
+- **ShadCN UI / Custom Components**: For toasts, buttons, dialogs, and other UI elements.
 
-Weekly Planner: Add/remove meals to breakfast, lunch, or dinner for any date.
+## Usage
 
-User Profile Dropdown: Accessible from the header with options (Profile, Contact, Sign Out).
+The Meal Prep app is used to:
 
-Toasts: User feedback for adding/removing favorites, selecting meals, and updating the weekly plan.
-
-Responsive Design: Works seamlessly on desktop, tablet, and mobile.
-
-🛠 Technologies Used
-
-React (Vite): Frontend JavaScript framework.
-
-TailwindCSS: For responsive and modern styling.
-
-ShadCN UI / Custom Components: Toasts, cards, buttons, dropdowns.
-
-TypeScript: Type safety across hooks and components.
+- Help users **discover new meals** quickly.
+- **Organize weekly meals** efficiently with a visual planner.
+- Keep track of **favorite meals** for easy access.
+- Provide a **structured meal planning workflow**, reducing the stress of deciding what to eat each day.
+- Enhance user experience with **interactive notifications** and a responsive design.
