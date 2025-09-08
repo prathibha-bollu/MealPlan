@@ -28,3 +28,5 @@ The Meal Plan app is used to:
 - Keep track of **favorite meals** for easy access.
 - Provide a **structured meal planning workflow**, reducing the stress of deciding what to eat each day.
 - Enhance user experience with **interactive notifications** and a responsive design.
+- 
+**Future Plans** : Planning to make this application full-stack soon, adding backend support for user accounts, meal storage, and personalized meal planning.
